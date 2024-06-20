@@ -36,8 +36,8 @@
 
 
 ScreenShots
-![figure 1](/phone%20book/2nd.png)
-![figure 2](/phone%20book/3rd.png)
-![figure 3](/phone%20book/1st.png)
-![figure 4](/phone%20book/4th.png)
-![figure 5](/phone%20book/6th.png)
+![figure 1](/2nd.png)
+![figure 2](/3rd.png)
+![figure 3](/1st.png)
+![figure 4](/4th.png)
+![figure 5](/6th.png)
